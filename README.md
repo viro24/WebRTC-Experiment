@@ -1,3 +1,6 @@
+# viro24.github.io/WebRTC-Experiment/
+WebRTC-Experiment
+
 # WebRTC Demos, Experiments, Libraries, Examples
 
 ----
@@ -6,7 +9,7 @@
 
 WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 
-Live Demo: https://www.webrtc-experiment.com/RecordRTC/
+Live Demo: https://viro24.github.io/WebRTC-Experiment/RecordRTC/
 
 [![npm](https://img.shields.io/npm/v/recordrtc.svg)](https://npmjs.org/package/recordrtc) [![downloads](https://img.shields.io/npm/dm/recordrtc.svg)](https://npmjs.org/package/recordrtc) [![Build Status: Linux](https://travis-ci.org/muaz-khan/RecordRTC.png?branch=master)](https://travis-ci.org/muaz-khan/RecordRTC)
 
@@ -20,7 +23,7 @@ RecordRTC extension is [available in the Chrome Web Store](https://chrome.google
 
 Pass multiple streams (e.g. screen+camera or multiple-cameras) and get single stream.
 
-Live Demo: https://www.webrtc-experiment.com/MultiStreamsMixer/
+Live Demo: https://viro24.github.io/WebRTC-Experiment/MultiStreamsMixer/
 
 Github: https://github.com/muaz-khan/MultiStreamsMixer
 
@@ -30,7 +33,7 @@ Github: https://github.com/muaz-khan/MultiStreamsMixer
 
 A tiny JavaScript library that can be used to detect WebRTC features e.g. system having speakers, microphone or webcam, screen capturing is supported, number of audio/video devices etc.
 
-Live Demo: https://www.webrtc-experiment.com/DetectRTC/
+Live Demo: https://viro24.github.io/WebRTC-Experiment/DetectRTC/
 
 [![npm](https://img.shields.io/npm/v/detectrtc.svg)](https://npmjs.org/package/detectrtc) [![downloads](https://img.shields.io/npm/dm/detectrtc.svg)](https://npmjs.org/package/detectrtc)  [![Build Status: Linux](https://travis-ci.org/muaz-khan/DetectRTC.png?branch=master)](https://travis-ci.org/muaz-khan/DetectRTC)
 
@@ -66,7 +69,7 @@ Github (open sourced): https://github.com/muaz-khan/WebRTC-Scalable-Broadcast
 
 Collaborative, extendable, JavaScript Canvas2D drawing tool, supports dozens of builtin tools, as well as generates JavaScript code for 2D animations.
 
-Live Demo: https://www.webrtc-experiment.com/Canvas-Designer/
+Live Demo: https://viro24.github.io/WebRTC-Experiment/Canvas-Designer/
 
 Github (open-sourced): https://github.com/muaz-khan/Canvas-Designer
 
@@ -80,7 +83,7 @@ You video presentation: https://www.youtube.com/watch?v=pvAj5l_v3cM
 
 Translator.js is a JavaScript library built top on Google Speech-Recognition & Translation API to transcript and translate voice and text. It supports many locales and brings globalization in WebRTC!
 
-Live Demo: https://www.webrtc-experiment.com/Translator/
+Live Demo: https://viro24.github.io/WebRTC-Experiment/Translator/
 
 Github (open-sourced): https://github.com/muaz-khan/Translator
 
@@ -90,7 +93,7 @@ Github (open-sourced): https://github.com/muaz-khan/Translator
 
 A tiny JavaScript library using WebRTC getStats API to return peer connection stats i.e. bandwidth usage, packets lost, local/remote ip addresses and ports, type of connection etc.
 
-Live Demo: https://www.webrtc-experiment.com/getStats/
+Live Demo: https://viro24.github.io/WebRTC-Experiment/getStats/
 
 [![npm](https://img.shields.io/npm/v/getstats.svg)](https://npmjs.org/package/getstats) [![downloads](https://img.shields.io/npm/dm/getstats.svg)](https://npmjs.org/package/getstats)
 
@@ -102,7 +105,7 @@ Github (open-sourced): https://github.com/muaz-khan/getStats
 
 FileBufferReader is a JavaScript library reads file and returns chunkified array-buffers. The resulting buffers can be shared using WebRTC data channels or socket.io. 
 
-Live Demo: https://www.webrtc-experiment.com/FileBufferReader/
+Live Demo: https://viro24.github.io/WebRTC-Experiment/FileBufferReader/
 
 Github (open-sourced): https://github.com/muaz-khan/FileBufferReader
 
@@ -126,8 +129,8 @@ Youtube video presentation: https://www.youtube.com/watch?v=gv8xpdGdS4o
 
 # WebRTC Screen Sharing
 
-* P2P Screen Sharing: https://www.webrtc-experiment.com/Pluginfree-Screen-Sharing/
-* Simple getDisplayMedia: https://www.webrtc-experiment.com/getDisplayMedia/
+* P2P Screen Sharing: https://viro24.github.io/WebRTC-Experiment/Pluginfree-Screen-Sharing/
+* Simple getDisplayMedia: https://viro24.github.io/WebRTC-Experiment/getDisplayMedia/
 
 ----
 
